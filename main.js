@@ -42,17 +42,11 @@ const options = {
   },
   maintainAspectRatio: false,
   scales: {
-    y: {
-      display: false,
-    },
-    x: {
-      display: false,
-    },
+    y: { display: false },
+    x: { display: false },
   },
   plugins: {
-    legend: {
-      display: false,
-    },
+    legend: { display: false },
   },
 };
 
